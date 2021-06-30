@@ -308,7 +308,7 @@ fin_len:
 
 #Funcion que nos guarda en una cadena el numero pasado como argumento en hexadecimal
 #Parametros: $a0 - Entero en decimal a convertirl
-#	     $a1 - Dirección Cadena donde se pone su conversión en decimal
+#	     $a1 - DirecciÃ³n Cadena donde se pone su conversiÃ³n en decimal
 #
 
 funcion_hex:
